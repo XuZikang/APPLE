@@ -1,5 +1,5 @@
 # <div align =center><img src=icon.png width=40> APPLE
-## <div align =center> Fair Medical Segmentation via *A*dversarial *P*rotected-attribute-aware *P*erturbations on *L*atent *E*mbeddings
+## <div align =center> Fair Medical Segmentation <br> via <br> *A*dversarial *P*rotected-attribute-aware *P*erturbations on *L*atent *E*mbeddings
 
 [![arXiv](https://img.shields.io/badge/arXiv-2403.05114-b31b1b.svg)](https://arxiv.org/abs/2403.05114)
 <a href="#LICENSE--citation">
